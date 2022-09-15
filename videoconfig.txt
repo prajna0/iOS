@@ -1,5 +1,3 @@
-
-
 "VideoConfig"
 {
 "setting.cl_gib_allow"				"0"		//布娃娃系统			禁用:"0"/开:"1.0"
