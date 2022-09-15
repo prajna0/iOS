@@ -26,12 +26,12 @@
 "setting.defaultresheight"			"1080"		//垂直分辨率-high
 "setting.fullscreen"				"1"		//全屏			禁用:"0"/开:"1.0"
 "setting.nowindowborder"			"0"		//无边框			禁用:"0"/开:"1.0"
-"setting.volumetric_lighting"			"0"		//体积光+			禁用:"0"/开:"1.0"
-"setting.volumetric_fog"			"0"		//迷雾效果+			禁用:"0"/开:"1.0"
+"setting.volumetric_lighting"			"0"		//体积光+		禁用:"0"/开:"1.0"
+"setting.volumetric_fog"			"0"		//迷雾效果+		禁用:"0"/开:"1.0"
 "setting.mat_vsync_mode"			"0"		//垂直同步模式		禁用:"0"/双缓冲  :"1"/三重缓冲  :"2"/自适应  :"3"/自适应半刷新率  :"4"	(FPS不能稳定屏幕刷新率不建议开启垂直同步, 可能会造成输入滞后)
 "setting.mat_backbuffer_count"			"0"		//垂直同步缓冲		禁用:"1"/双缓冲时:"1"/三重缓冲时:"2"/自适应时:"1"/自适应半刷新率时:"1"	(FPS不能稳定屏幕刷新率不建议开启垂直同步, 可能会造成输入滞后)
 "setting.mat_antialias_mode"			"0"		//TSAA抗锯齿		禁用:"0"/开:"12"
-"setting.csm_enabled"				"0"		//阴影++			禁用:"0"/开:"1.0"
+"setting.csm_enabled"				"0"		//阴影++		禁用:"0"/开:"1.0"
 "setting.csm_coverage"				"0"		//阳光阴影范围++		禁用:"0"/低:"1.0"/高:"2.00"
 "setting.csm_cascade_res"			"0"		//阳光阴影细节++		禁用:"0"/低:"512"/高:"1024"
 "setting.fadeDistScale"				"0.750000"	//体积渲染距离		默认:"1.000000"/可尝试:"0.750000"
