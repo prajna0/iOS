@@ -1,3 +1,5 @@
+
+
 "VideoConfig"
 {
 "setting.cl_gib_allow"				"0"		//布娃娃系统			禁用:"0"/开:"1.0"
@@ -40,5 +42,3 @@
 "setting.gamma"					"1.000000"	//亮度(伽马值)			50%:"1"/55%:"0.935714"/60%:"0.855357"/100%:"0.250000"
 "setting.configversion"				"7"		//Config版本			7
 }
-
-
