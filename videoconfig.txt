@@ -19,7 +19,7 @@
 "setting.shadow_maxdynamic"			"0"		//动态点光源阴影			禁用:"0"/开:"4.0"
 "setting.ssao_enabled"				"0"		//环境光遮蔽 			禁用:"0"/开:"1.0"
 "setting.ssao_downsample"			"3"		//环境光等级 			禁用:"3"/低:"2"/中:"1"/高:"0"
-"setting.dvs_enable"				"0"		//自适应分辨率帧率目标		禁用:"0"/开:"1.0"			(配合自适应超级采样"1"使用)
+"setting.dvs_enable"				"0"		//自适应分辨率帧率目标		禁用:"0"/开:"1.0"		(配合自适应超级采样"1"使用)
 "setting.dvs_gpuframetime_min"			"0"		//最小帧生成时间			默认:"15000"(120FPS:"7949" - "8200" 144FPS: "6592" - "6800" 183FPS: "5250" - "5350" 200FPS: "4750" - "4900")
 "setting.dvs_gpuframetime_max"			"0"		//最大帧生成时间			默认:"16500"(120FPS:"7949" - "8200" 144FPS: "6592" - "6800" 183FPS: "5250" - "5350" 200FPS: "4750" - "4900")
 "setting.defaultres"				"1920"		//水平分辨率-width
