@@ -12,14 +12,14 @@
 "setting.particle_cpu_level"			"0"		//特效细节			低:"0"/中:"1.0"/高:"2.0"
 "setting.r_createmodeldecals"			"0"		//冲撞痕迹贴图等级		禁用:"0"/低:"0.0"/高:"1.0"
 "setting.r_decals"				"0"		//冲撞痕迹			禁用:"0"/低:"256"/高:"256"
-"setting.r_lod_switch_scale"			"0.6"		//模型细节刷新			低:"0.35-0.6"中:"0.8"高:"1.0"(设置过低会导致地图刷新加载延迟)
+"setting.r_lod_switch_scale"			"0.6"		//模型细节刷新			低:"0.35-0.6"中:"0.8"高:"1.0"	(设置过低会导致地图刷新加载延迟)
 "setting.shadow_enable"				"0"		//阴影(点光源)			禁用:"0"/开:"1.0"
 "setting.shadow_depth_dimen_min"		"0"		//点光源阴影细节最小值		禁用:"0"/低:"128"/高:"256"/非常高:"512"
 "setting.shadow_depth_upres_factor_max"		"0"		//点光源阴影细节最大值		禁用:"0"/低:"2.0"/高:"2.0"/非常高:"3.0"
 "setting.shadow_maxdynamic"			"0"		//动态点光源阴影			禁用:"0"/开:"4.0"
 "setting.ssao_enabled"				"0"		//环境光遮蔽 			禁用:"0"/开:"1.0"
 "setting.ssao_downsample"			"3"		//环境光等级 			禁用:"3"/低:"2"/中:"1"/高:"0"
-"setting.dvs_enable"				"0"		//自适应分辨率帧率目标		禁用:"0"/开:"1.0"（配合自适应超级采样"1"使用）
+"setting.dvs_enable"				"0"		//自适应分辨率帧率目标		禁用:"0"/开:"1.0"	(配合自适应超级采样"1"使用)
 "setting.dvs_gpuframetime_min"			"0"		//最小帧生成时间			默认:"15000"(120FPS:"7949" - "8200" 144FPS: "6592" - "6800" 183FPS: "5250" - "5350" 200FPS: "4750" - "4900")
 "setting.dvs_gpuframetime_max"			"0"		//最大帧生成时间			默认:"16500"(120FPS:"7949" - "8200" 144FPS: "6592" - "6800" 183FPS: "5250" - "5350" 200FPS: "4750" - "4900")
 "setting.defaultres"				"1920"		//水平分辨率-width
@@ -28,7 +28,7 @@
 "setting.nowindowborder"			"0"		//无边框				禁用:"0"/开:"1.0"
 "setting.volumetric_lighting"			"0"		//体积光+			禁用:"0"/开:"1.0"
 "setting.volumetric_fog"			"0"		//迷雾效果+			禁用:"0"/开:"1.0"
-"setting.mat_vsync_mode"			"0"		//垂直同步模式			禁用:"0"/双缓冲  :"1"/三重缓冲  :"2"/自适应  :"3"/自适应半刷新率  :"4"	(FPS不能稳定屏幕刷新率不建议开启垂直同步, 可能会造成输入滞后)
+"setting.mat_vsync_mode"			"0"		//垂直同步模式			禁用:"0"/双缓冲:"1"/三重缓冲:"2"/自适应:"3"/自适应半刷新率:"4"	(FPS不能稳定屏幕刷新率不建议开启垂直同步, 可能会造成输入滞后)
 "setting.mat_backbuffer_count"			"0"		//垂直同步缓冲			禁用:"1"/双缓冲时:"1"/三重缓冲时:"2"/自适应时:"1"/自适应半刷新率时:"1"	(FPS不能稳定屏幕刷新率不建议开启垂直同步, 可能会造成输入滞后)
 "setting.mat_antialias_mode"			"0"		//TSAA抗锯齿			禁用:"0"/开:"12"
 "setting.csm_enabled"				"0"		//阴影++			禁用:"0"/开:"1.0"
